@@ -407,7 +407,7 @@ Evaluation console output:<br>
 
 <br>
 Classification report:<br>
-<img src="./asset/Kidney_Disease_classificaiton_report_at_epoch_27_1017.png" width="740" height="auto"><br>
+<img src="./asset/Kidney_Disease_classificaiton_report_at_epoch_27_1017_2.png" width="740" height="auto"><br>
 
 <br>
 Confusion matrix:<br>
