@@ -226,7 +226,7 @@ Please download the pretrained checkpoint file from <a href="https://storage.goo
 <a id="4.1">4.1 Train script</a>
 </h3>
 Please run the following bat file to train our Kidney Disease Classification efficientnetv2 model by using
-<a href="./projects/Kidney-Disease/Resampled_Kidney_Simpler_Disease_Images/train">Resampled_Kidney_Simpler_Disease_Images/train</a>.
+<a href="./projects/Kidney-Disease/Resampled_Kidney_Disease_Simpler_Images/train">Resampled_Kidney_Simpler_Disease_Images/train</a>.
 <pre>
 ./1_train.bat
 </pre>
