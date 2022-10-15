@@ -121,7 +121,7 @@ Tumor- (185).jpg<br>
 3. By applying a resampling tool <a href="https://github.com/martian-antillia/ImageDatasetResampler">ImageDatasetResampler</a>
 to <b>Kideny_Disease_Images_512x512_simpler_master</b>, we have created a balanced dataset <b>Resampled_Kideny_Disease_Images_512x512_simpler_master</b>.<br> 
 <br>
-4. We have finally created <b>Resampled_Kidney_Disease_Simpler_Images</b> dataset by applying a script <a href="./projects/Kidney-Disease/split_master.py">
+4. We have finally created <a href="./projects/Kidney-Disease/Resampled_Kidney_Disease_Simpler_Images/"><b>Resampled_Kidney_Disease_Simpler_Images</b></a> dataset by applying a script <a href="./projects/Kidney-Disease/split_master.py">
 split_master.py</a> to the <b>Resampled_Kideny_Disease_Images_512x512_simpler_master</b>.
 <pre>
 <pre>
